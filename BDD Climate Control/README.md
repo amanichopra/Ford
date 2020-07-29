@@ -6,3 +6,12 @@ Historically, Ford has had high warranty expenses, more than most other main U.S
 1. Gain insights into large differences that exist between actual compressor temperature and temperature requested by passenger. 
 2. Analyze the duration and frequency of intervals where the compressor temperature is below 0°C.
 3. Determine if driver behavior impacts the AC system.
+
+## Workflow
+1. Identify vehicle selection criteria.
+2. Determine CAN signals of interest.
+3. Pull data from Big Data Drive (a GDIA data source containing CAN data transmitted at frequencies of thousands of signals/ms for 3000+ vehicles).
+4. Conduct exploratory data analysis to study project objectives.
+5. Scale study to other vehicle types.
+
+The documents in this folder contain notebooks used for prelimary work, preprocessing, EDA, and scaling.

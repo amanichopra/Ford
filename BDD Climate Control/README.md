@@ -14,4 +14,4 @@ Historically, Ford has had high warranty expenses, more than most other main U.S
 4. Conduct exploratory data analysis to study project objectives.
 5. Scale study to other vehicle types.
 
-The documents in this folder contain notebooks used for prelimary work, preprocessing, EDA, and scaling.
+*The documents in this folder contain notebooks used for prelimary work, preprocessing, EDA, and scaling.*
